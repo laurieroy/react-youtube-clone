@@ -29,6 +29,7 @@
     "react-dom": "16.3.2",
     "react-redux": "5.0.7",
     "redux": "4.0.0",
+    "websocket-extensions": ">=0.1.4"
     "youtube-api-search": "0.0.5"
   }
 }
